@@ -51,3 +51,5 @@ python3 manage.py runserver
 ```
 
 [Decoder](https://ru.rakko.tools/tools/71/)
+
+pip install django-cors-headers
